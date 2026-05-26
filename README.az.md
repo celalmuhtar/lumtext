@@ -4,6 +4,8 @@
 
 # ◈ Lumtext
 
+🇬🇧 [English](README.md) · 🇹🇷 [Türkçe](README.tr.md) · 🇷🇺 [Русский](README.ru.md)
+
 **AI ilə Mətn Emalı — Dərhal, İstənilən Yerdə**
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://python.org)
@@ -287,14 +289,6 @@ lumtext/
 ```
 
 ---
-
-## 🌐 Digər dillərdə oxu
-
-| Dil | README |
-|-----|--------|
-| 🇬🇧 English | [README.md](README.md) |
-| 🇹🇷 Türkçe | [README.tr.md](README.tr.md) |
-| 🇷🇺 Русский | [README.ru.md](README.ru.md) |
 
 ---
 

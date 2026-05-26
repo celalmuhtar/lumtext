@@ -4,6 +4,8 @@
 
 # ◈ Lumtext
 
+🇬🇧 [English](README.md) · 🇦🇿 [Azərbaycan](README.az.md) · 🇹🇷 [Türkçe](README.tr.md)
+
 **Обработка текста с ИИ — Мгновенно, Везде**
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://python.org)
@@ -287,14 +289,6 @@ lumtext/
 ```
 
 ---
-
-## 🌐 Читать на других языках
-
-| Язык | README |
-|------|--------|
-| 🇬🇧 English | [README.md](README.md) |
-| 🇦🇿 Azərbaycan dili | [README.az.md](README.az.md) |
-| 🇹🇷 Türkçe | [README.tr.md](README.tr.md) |
 
 ---
 

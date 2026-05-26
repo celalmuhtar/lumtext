@@ -4,6 +4,8 @@
 
 # ◈ Lumtext
 
+🇬🇧 [English](README.md) · 🇦🇿 [Azərbaycan](README.az.md) · 🇷🇺 [Русский](README.ru.md)
+
 **AI Destekli Metin İşleme — Anında, Her Yerde**
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://python.org)
@@ -287,14 +289,6 @@ lumtext/
 ```
 
 ---
-
-## 🌐 Diğer dillerde oku
-
-| Dil | README |
-|-----|--------|
-| 🇬🇧 English | [README.md](README.md) |
-| 🇦🇿 Azərbaycan dili | [README.az.md](README.az.md) |
-| 🇷🇺 Русский | [README.ru.md](README.ru.md) |
 
 ---
 

@@ -4,6 +4,8 @@
 
 # ◈ Lumtext
 
+🇦🇿 [Azərbaycan](README.az.md) · 🇹🇷 [Türkçe](README.tr.md) · 🇷🇺 [Русский](README.ru.md)
+
 **AI-Powered Text Processing — Instantly, Anywhere**
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://python.org)
@@ -304,16 +306,6 @@ lumtext/
 └── scripts/
     └── trigger.py           # External trigger via UNIX socket
 ```
-
----
-
-## 🌐 Read this in other languages
-
-| Language | README |
-|----------|--------|
-| 🇦🇿 Azərbaycan dili | [README.az.md](README.az.md) |
-| 🇹🇷 Türkçe | [README.tr.md](README.tr.md) |
-| 🇷🇺 Русский | [README.ru.md](README.ru.md) |
 
 ---
 
