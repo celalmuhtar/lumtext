@@ -100,6 +100,13 @@ PROMPTS = {
         "Aşağıdakı mətni bullet point (•) formatına çevir — hər əsas fikir ayrı nöqtə olsun. "
         "Yalnız bullet point siyahısını qaytar.\n\nMətn:\n{text}"
     ),
+    "clean_sql": (
+        "Aşağıdakı mətni təhlil et və oradakı SQL sorğusunu proqram kodlarından "
+        "(məsələn: Java StringBuilder, sətir birləşdirmələri '+', dırnaq işarələri, "
+        "Python dəyişənləri, markdown sintaksisi və s.) təmizlə. "
+        "Geriyə yalnız təmiz, icra edilə bilən SQL sorğusunu qaytar. "
+        "Heç bir izahat və ya əlavə mətn yazma.\n\nMətn:\n{text}"
+    ),
 }
 
 

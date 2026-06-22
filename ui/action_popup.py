@@ -395,6 +395,7 @@ class ActionPopup(QDialog):
             ("tone_formal", "⬆", "action_tone_formal"),
             ("tone_casual", "⬇", "action_tone_casual"),
             ("bulletpoints","⊟", "action_bulletpoints"),
+            ("clean_sql",   "🛢", "action_clean_sql"),
         ]
 
         self._radio_actions = {}
